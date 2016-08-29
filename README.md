@@ -1,0 +1,2 @@
+# script.github.in
+script
